@@ -12,12 +12,26 @@ Les vidéos et les piles ne sont pas incluses. Parfois, un lien dans le fichier 
 
 *Videos and batteries not included. Sometimes, there is a link in the ASS file pointing to an online video.*
 
-## Conventions de timing - *conventions used*
+## Convention de timing - *subtitling convention*
+
 
 * Timé à la syllabe ;
 * Timing défilant (balise `\kf` ou `\K`) ;
 * 10 ms d'avance des sous-titres sur les paroles.
 
+
+
 * *Subtitle based on syllabe;*
 * *Sweep effect (`\kf` or `\K` tag);*
 * *Subtitle is displayed 10 ms before the actual lyrics.*
+
+
+## Convention des noms - *Naming convention*
+
+* Musiques : `<Groupe>|<Chanteur>|<Compositeur> feat. <Chanteur> - <Genre> - <Titre musique> [- <Anime/jeux de provenance>]`
+* Animes/Jeux : `<Titre anime> [(<Titre abbrégé>)] - <Genre> - <Titre musique>`
+
+
+
+* Musics: `<Group>|<Singer>|<Composer> feat. <Singer> - <Type> - <Music title> [- <Original anime/game>]`
+* Animes/Games: `<Anime name> [(<Shortened title>)] - <Type> - <Music title>`
